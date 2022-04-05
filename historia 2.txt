@@ -10,4 +10,15 @@ ultima prueba suprema para ver si hay un commit
 en el merge xd
 
 
+<<<<<<< HEAD
 cambio main
+=======
+
+
+
+
+
+
+
+cambio al branch lol
+>>>>>>> lol
