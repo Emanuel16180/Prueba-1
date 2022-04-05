@@ -3,5 +3,13 @@ mi pasatiempo es ver
 		     anime y ver peliculas.
 khe pedoooooooooooooooooo 
 
+<<<<<<< HEAD
 este es el cambio principal de la rama lol. k
 aqui vamos de nuevo
+=======
+este es el cambio principal de la rama lol.
+
+
+ultima prueba suprema para ver si hay un commit
+en el merge xd
+>>>>>>> lol
