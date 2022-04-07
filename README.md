@@ -1,4 +1,7 @@
-# Prueba-1
-pruebas xd xd 
+# Prueba 1 👨🏼‍💻 
+Esta es solo uan prueba de como escribir un readme para presentar el proyecto.
 
-joto el que lo lea xd
+![](https://i.imgur.com/xqfqLe7.jpg)
+
+Esto esta genial!!!!  😎 
+xD
