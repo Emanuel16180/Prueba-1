@@ -1,24 +1,3 @@
 hola me llamo Emanuel, tengo 20 años
 mi pasatiempo es ver 
 		     anime y ver peliculas.
-khe pedoooooooooooooooooo 
-
-este es el cambio principal de la rama lol.
-
-
-ultima prueba suprema para ver si hay un commit
-en el merge xd
-
-
-<<<<<<< HEAD
-cambio main
-=======
-
-
-
-
-
-
-
-cambio al branch lol
->>>>>>> lol
